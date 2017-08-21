@@ -39,7 +39,7 @@ function submitForm(e){
     }, 3000);
 
     // Clear form after submission
-    document.getElementById('contactForm').reset();
+    document.getElementById('contactform').reset();
 }
 
 // Function to get form value
